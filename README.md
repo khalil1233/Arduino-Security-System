@@ -2,6 +2,9 @@
 A DIY home security system that consists of a fingerprint door lock, an alarm, and a
 doorbell built with Arduino NANO microController and other Arduino sensors &
 electronic modules.
+
+![project schematic](https://github.com/khalil1233/Arduino-Security-System/raw/master/project%20schematic%20Fritzing.png)
+
 ## First-time setup
 When turning on the system for the first time a message will show telling that you
 need to enroll a fingerprint, you simply need to put your finger on the sensor and
